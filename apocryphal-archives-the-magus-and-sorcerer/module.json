@@ -1,0 +1,35 @@
+{
+  "id": "apocryphal-archives-the-magus-and-sorcerer",
+  "title": "Apocryphal Archives: The Magus and Sorcerer",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Implements the Pathfinder Infinite content: Apocryphal Archives: The Magus and Sorcerer, by Perrin Mele, Dannil Mele, and Timothy Schaefer",
+  "authors": [
+    {
+      "name": "Perrin Mele"
+    },
+    {
+      "name": "Dannil Mele"
+    },
+    {
+      "name": "Timothy Schaefer"
+    }
+  ],
+  "url": "https://github.com/EvilArgonian/apocryphalArchivesMagusSorcererFoundryVTT",
+  "packs": [
+    {
+      "name": "test-apocryphal-archives-the-magus-and-sorcerer",
+      "label": "Apocryphal Archives: The Magus and Sorcerer",
+      "path": "packs/test-apocryphal-archives-the-magus-and-sorcerer",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
