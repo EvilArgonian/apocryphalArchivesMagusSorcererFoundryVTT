@@ -31,5 +31,7 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "manifest": "https://github.com/EvilArgonian/apocryphalArchivesMagusSorcererFoundryVTT/raw/main/apocryphal-archives-the-magus-and-sorcerer/module.json",
+  "download": "https://github.com/EvilArgonian/apocryphalArchivesMagusSorcererFoundryVTT/raw/main/apocryphalArchives_theMagusAndSorcerer.zip"
 }
